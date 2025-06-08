@@ -1,0 +1,6 @@
+[submodule "ref/AI_Gen_Novel"]
+	path = ref/AI_Gen_Novel
+	url = https://github.com/cjyyx/AI_Gen_Novel.git
+[submodule "ref/agentica"]
+	path = ref/agentica
+	url = https://github.com/shibing624/agentica.git
